@@ -28,7 +28,7 @@ cd multi-recon-cli
 # Install dependencies
 pip install -r requirements.txt
 
-🚀 Usage
+##🚀 Usage
 # Run the tool
 python3 tool.py
 
@@ -37,7 +37,7 @@ Example:
 
 python3 tool.py -d example.com -s all
 
-📂 Project Structure
+##📂 Project Structure
 multi-recon-cli/
 │── tool.py                # Main CLI script
 │── requirements.txt       # Dependencies
@@ -48,7 +48,7 @@ multi-recon-cli/
 │    ├── subdomains.txt
 │    └── dirs.txt
 
-📝 Example Run
+##📝 Example Run
 [SERVER] Starting Recon on: example.com
 
 [1] Subdomains Found:
@@ -65,7 +65,7 @@ multi-recon-cli/
     - /uploads
     - /login
 
-🛠 Requirements
+##🛠 Requirements
 
 Python 3.8+
 
@@ -74,12 +74,15 @@ requests
 dnspython
 
 python-whois
+##🤝 Contributing
 
-📜 License
+Pull requests are welcome! If you’d like to add new modules (e.g., vulnerability scanning, exploit testing), open an issue first to discuss what you’d like to change.
+
+##📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-⚠️ Disclaimer
+##⚠️ Disclaimer
 
 This tool is for educational & security research purposes only.
 Do not use it against systems you don’t own or don’t have permission to test.
