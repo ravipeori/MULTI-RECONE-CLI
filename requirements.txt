@@ -1,3 +1,8 @@
 requests
 python-whois
 dnspython
+colorama
+argparse
+aiohttp
+asyncio
+rich
