@@ -1,4 +1,3 @@
-📄 README.md
 # 🔎 Multi-Recon CLI Tool
 
 A high-level **offensive security & reconnaissance CLI tool** for Unix/Linux users.  
